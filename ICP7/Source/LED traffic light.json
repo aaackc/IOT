@@ -1,0 +1,1 @@
+[{"id":"28f00876.fe3c08","type":"arduino out","z":"8c0e9481.6a1368","name":"Yellow","pin":"8","state":"OUTPUT","arduino":"5338cf89.5c43f","x":710,"y":320,"wires":[]},{"id":"5338cf89.5c43f","type":"arduino-board","z":"","device":"COM3"}]
